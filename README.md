@@ -2,14 +2,6 @@
 
 Laravel, Mysql, jQuery, Ajax
 
-## Submitted TO:
-
-Akaar IT
-
-## Submitted By:
-
-MD: Akter Nashid Rajin
-
 ## Login Credentials
 
 Admin: admin@email.com
